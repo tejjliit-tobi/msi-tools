@@ -9,9 +9,9 @@ This repository contains files and data that I do NOT own.
 
 - `skins/database/1/skins`
 - `skins/database/3/skins`
-  - **Contributor**: Warlito Gaming
+  - **Owner**: Warlito Gaming
 
 - `skins/database/4/skins`  
-  - **Contributor**: Skin Tools ML
+  - **Owner**: Skin Tools ML
 
 ---
