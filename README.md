@@ -3,7 +3,7 @@
 
 **Repository Disclaimer**
 
-This repository contains files and data that I do NOT own.
+This repository contains files and data that I do NOT own and you are free to copy or redistibute ONLY my work.
 
 **Credits:**
 
