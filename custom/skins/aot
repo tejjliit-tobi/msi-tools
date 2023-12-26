@@ -1,0 +1,20 @@
+[
+  {
+    "skin_name": "Barats ft. Colossal Titan",
+    "hero_name": "Barats",
+    "image": "https://raw.githubusercontent.com/tejjliit-tobi/msi-tools/main/custom/thumbnail/Barats%20ft.%20Colossal%20Titan.png",
+    "link": "https://github.com/tejjliit-tobi/msi-tools/raw/main/custom/scripts/Barats%20ft.%20Colossal%20Titan.zip"
+  },
+  {
+    "skin_name": "Chou ft. Eren",
+    "hero_name": "Chou",
+    "image": "https://raw.githubusercontent.com/tejjliit-tobi/msi-tools/main/custom/thumbnail/Chou%20ft.%20Eren%20Titan.png",
+    "link": "https://github.com/tejjliit-tobi/msi-tools/raw/main/custom/scripts/Chou%20ft.%20Eren.zip"
+  },
+  {
+    "skin_name": "Fanny ft. Mikasa",
+    "hero_name": "Fanny",
+    "image": "https://raw.githubusercontent.com/tejjliit-tobi/msi-tools/main/custom/thumbnail/Fanny%20ft.%20Mikasa.png",
+    "link": "https://github.com/tejjliit-tobi/msi-tools/raw/main/custom/scripts/Fanny%20ft.%20Mikasa.zip"
+  }
+]

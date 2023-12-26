@@ -1,0 +1,44 @@
+[
+  {
+    "skin_name": "Bane Lord",
+    "hero_name": "Bane",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_1015875206499772.jpeg",
+    "link": "https://github.com/KymyomaEclipse7/Heroes/raw/main/baneBoss.zip"
+  },
+  {
+    "skin_name": "Grock Red Buff",
+    "hero_name": "Grock",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_620478126923100.jpeg",
+    "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/NewgrockRedb.zip"
+  },
+  {
+    "skin_name": "Miya Horned Lizard",
+    "hero_name": "Miya",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_831476695216836.jpeg",
+    "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/monsterMiya.zip"
+  },
+  {
+    "skin_name": "Helcurt V.E.N.O.M Spider",
+    "hero_name": "Helcurt",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_153297591141385.jpeg",
+    "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/monsterSpider.zip"
+  },
+  {
+    "skin_name": "Helcurt Thunder Fenrir",
+    "hero_name": "Helcurt",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_323204390142374.jpeg",
+    "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/monsterHcBlue.zip"
+  },
+  {
+    "skin_name": "Ling Molten Fiend",
+    "hero_name": "Ling",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_314434814315924.jpeg",
+    "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/monsterLing.zip"
+  },
+  {
+    "skin_name": "Hylos Lord",
+    "hero_name": "Hylos",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_2040006509699663.jpeg",
+    "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/monsterlord.zip"
+  }
+]

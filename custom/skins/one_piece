@@ -1,0 +1,32 @@
+[
+  {
+    "skin_name": "Eudora ft. Nami",
+    "hero_name": "Eudora",
+    "image": "https://raw.githubusercontent.com/tejjliit-tobi/msi-tools/main/custom/thumbnail/Eudora%20ft.%20Nami.png",
+    "link": "https://github.com/tejjliit-tobi/msi-tools/raw/main/custom/scripts/Eudora%20ft.%20Nami.zip"
+  },
+  {
+    "skin_name": "Chou ft. Portgas D Ace",
+    "hero_name": "Chou",
+    "image": "https://raw.githubusercontent.com/tejjliit-tobi/msi-tools/main/custom/thumbnail/Chou%20ft.%20Portgas%20D%20Ace.png",
+    "link": "https://github.com/tejjliit-tobi/msi-tools/raw/main/custom/scripts/Chou%20ft%20Portgas%20D%20Ace.zip"
+  },
+  {
+    "skin_name": "Chou ft. Sanji",
+    "hero_name": "Chou",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_813243957059544.jpeg",
+    "link": "https://github.com/KymyomaEclipse7/MG/raw/main/chouSanji.zip"
+  },
+  {
+    "skin_name": "Lancelot ft. Shanks",
+    "hero_name": "Lancelot",
+    "image": "https://github.com/KymyomaEclipse7/Pix/raw/main/received_596549975972249.jpeg",
+    "link": "https://github.com/KymyomaEclipse7/MG/raw/main/lanceShanks.zip"
+  },
+  {
+    "skin_name": "Lancelot ft. Brook",
+    "hero_name": "Lancelot",
+    "image": "https://github.com/KymyomaEclipse7/Heroes/raw/main/received_578329831181981.jpeg",
+    "link": "https://github.com/KymyomaEclipse7/Pix/raw/main/lanceBrook.zip"
+  }
+]
