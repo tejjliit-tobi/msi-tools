@@ -1722,8 +1722,19 @@
       "heroSkins":[
          {
             "skinName":"Backup",
-            "heroLandscape":"https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb\u003d20220525165033",
-            "heroPortrait":"https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb\u003d20220525165033"
+            "skinType":"Restore",
+            "heroLandscape":"https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+            "heroPortrait":"https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png"
+         },
+         {
+            "skinName":"Moon Elf King",
+            "heroLandscape":"https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png",
+            "heroPortrait":"https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png"
+         },
+         {
+            "skinName":"Holy Priest",
+            "heroLandscape":"https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Estes_%28Holy_Priest%29.jpg",
+            "heroPortrait":"https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero342-portrait.png"
          },
          {
             "skinName":"Galaxy Dominator",
@@ -1742,8 +1753,8 @@
          },
          {
             "skinName":"Blacklist International",
-            "heroLandscape":"https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb\u003d20220804115327",
-            "heroPortrait":"https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png/revision/latest?cb\u003d20220804115327"
+            "heroLandscape":"https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png",
+            "heroPortrait":"https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero347-portrait.png"
          }
       ],
       "heroName":"Estes"
