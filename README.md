@@ -13,5 +13,8 @@ This repository contains files and data that I do NOT own and you are free to co
 
 - `skins/database/4/skins`  
   - **Owner**: Skin Tools ML
+ 
+- `skins/database/5/*`  
+  - **Owner**: Lanz
 
 ---
