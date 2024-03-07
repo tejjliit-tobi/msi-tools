@@ -69,7 +69,6 @@
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cbu003d20230805043953",
                 "name": "Echo",
-                "tag": " ",
                 "script": "195"
             }
         ],
@@ -80,7 +79,7 @@
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cbu003d20220525165611",
                 "name": "Contractor",
-                "script": "12 "
+                "script": "12"
             },
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest?cbu003d20220525165619",
@@ -126,7 +125,7 @@
             {
                 "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcTeaMBbBiYUgl2MRoqRMZe1yGPlRJjupTp1swu0026usqpu003dCAU",
                 "name": "MistBenders",
-                "script": "u003ccustomu003ehttps://github.com/kinAgonace/Fighter/raw/main/Aldous_MistBender.zip"
+                "script": "Mistbender Aldous"
             }
         ],
         "name": "Aldous"
