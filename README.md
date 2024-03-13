@@ -16,7 +16,7 @@ If you want to use this data, don't forget to clone this repo and push it to you
   - **Owner**: Skin Tools ML
  
 - [`skins/database/5/*`](skins/database/5/)
-- Updated by ME.
+  > Updated by ME.
   - **Owner**: Lanz
 
 ---
