@@ -970,24 +970,31 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png/revision/latest?cbu003d20220525170741",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero1141-portrait.png",
                 "name": "Cursed Needle",
                 "script": "145"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero1142-portrait.png/revision/latest?cbu003d20220525170622",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero1142-portrait.png",
                 "name": "Twinge Weaver",
                 "script": "146"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero1143-portrait.png/revision/latest?cbu003d20230212035448",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero1143-portrait.png",
                 "name": "Nobara Kugisaki",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Jujutsu_Kaisen_Skin_Tag.png",
                 "script": "147"
             },
             {
-                "image": "https://github.com/lanz132/Img/raw/main/melissa.jpg",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1144-portrait.png",
                 "name": "Nightwalker",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
                 "script": "150"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+                "name": "Sparkle Melissa",
+                "script": "164"
             }
         ],
         "name": "Melissa"
