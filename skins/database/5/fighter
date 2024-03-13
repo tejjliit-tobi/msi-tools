@@ -161,48 +161,48 @@
     {
         "data": [
             {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcSCJGAwW3-W1aAD2seuxp35cPWa195LLG0xJgu0026usqpu003dCAU",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero221-portrait.png",
                 "name": "Valkyrie",
                 "script": "182"
             },
             {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcSbdKHPj1qGFzwdrgwDo0utMB1f6SwWV_V7Pwu0026usqpu003dCAU",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero226-portrait.png",
                 "name": "Gladiator",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cbu003d20210414064230 ",
                 "script": "183"
             },
             {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcQG0rczkCm8-5luxDoJpoeRYBRWBmMarP_4Ggu0026usqpu003dCAU",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero227-portrait.png",
                 "name": "Christmas Carnival",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Christmas_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cbu003d20211201154100 ",
                 "script": "184"
             },
             {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcTdgLYgy9BHG6d2c_uawESP5puO4e5TfiUjhwu0026usqpu003dCAU",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero224-portrait.png",
                 "name": "Beach Sweetheart",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20210414064523 ",
                 "script": "185"
             },
             {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcQwkL5YKLUAW1SzAEZODcYxsNSdGEgFyMe8Vgu0026usqpu003dCAU",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero223-portrait.png",
                 "name": "Dragon Hunter",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603 ",
                 "script": "186"
             },
             {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcQwIdw2yaRIzHgMCAsbBl8Vpw8nMQT-Dd76bwu0026usqpu003dCAU",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png",
                 "name": "War Angel",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258 ",
                 "script": "187"
             },
             {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcSulWrkMBI_E9FlHOb8mHnfc60ggpUBjAzxUAu0026usqpu003dCAU",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero228-portrait.png",
                 "name": "Raven Shogun",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258 ",
                 "script": "188"
             },
             {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcSbrh79zrJswf5Os1QuIbXIlmJSgZwUaUv4IQu0026usqpu003dCAU",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero229-portrait.png",
                 "name": "S.A.B.E.R. Manhunter",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258 ",
                 "script": "189"
@@ -649,8 +649,8 @@
                 "script": "18"
             },
             {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcTeaMBbBiYUgl2MRoqRMZe1yGPlRJjupTp1swu0026usqpu003dCAU",
-                "name": "MistBenders",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero649-portrait.png",
+                "name": "Mistbenders Aldous",
                 "script": "209"
             }
         ],
@@ -1042,7 +1042,7 @@
                 "script": "121"
             },
             {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcTKgZWnNHMIy3YCefgk0eHUNQM3FK2Gc3OUnwu0026usqpu003dCAU",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png",
                 "name": "Exorcist Yu Zhong",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/The_Exorcists_Skin_Tag.png/revision/latest/thumbnail-down/width/53/height/20?cbu003d20220915140207 ",
                 "script": "122"
@@ -1055,7 +1055,7 @@
             {
                 "image": "https://github.com/lanz132/NEWIMG/raw/main/yuzhong2.jpg",
                 "name": "Cosmic Dragon",
-                "tag": " ",
+                "tag": "",
                 "script": "198"
             }
         ],
@@ -1163,12 +1163,12 @@
     {
         "data": [
             {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcSFOlpoPpKvhPG1FHsKP0dw5sCmoYAcZrklzAu0026usqpu003dCAU",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero1061-portrait.png",
                 "name": "Shadow of dread",
                 "script": "130"
             },
             {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcTyYytlHxqnc2gFO2r93INTSufAABZ9dMHbcQu0026usqpu003dCAU",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1062-portrait.png",
                 "name": "Horror Bringer ",
                 "script": "131"
             }
