@@ -114,39 +114,33 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Frost_Oracle.jpg/revision/latest/scale-to-width-down/250?cbu003d20211231054901",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png",
                 "name": "Frost Oracle",
                 "script": "107"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Heartbreak_Empress.jpg/revision/latest/scale-to-width-down/250?cbu003d20211231054919",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero363-portrait.png",
                 "name": "Heartbreak Empress",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
                 "script": "108"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Foxy_Lady_%28rework%29.jpg/revision/latest/scale-to-width-down/250?cbu003d20220213165714",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero364-portrait.png",
                 "name": "Foxy Lady",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cbu003d20220113105315",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Lunar_Festival_Tag.png",
                 "script": "109"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Kula_Diamond.jpg/revision/latest/scale-to-width-down/250?cbu003d20210528141510",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero366-portrait.png",
                 "name": "Kula Diamond",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cbu003d20220203122802",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png",
                 "script": "110"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Aquarius.jpg/revision/latest/scale-to-width-down/250?cbu003d20211231054836",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Aquarius.jpg",
                 "name": "Aquarius",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cbu003d20211211020801",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png",
                 "script": "111"
-            },
-            {
-                "image": "https://encrypted-tbn0.gstatic.com/images?qu003dtbn:ANd9GcRIcQ1y52HTI3YxiKvKKoD0eohC-Udx-eiHjwu0026usqpu003dCAU",
-                "name": "Ini Tampilan",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cbu003d20211211020801",
-                "script": "112"
             }
         ],
         "name": "Aurora"
