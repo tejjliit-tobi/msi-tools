@@ -611,57 +611,63 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png/revision/latest?cbu003d20231110122307",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero311-portrait.png",
                 "name": "Spear of Quiescence",
                 "script": "93"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero314-portrait.png/revision/latest?cbu003d20220525165000",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero314-portrait.png",
                 "name": "Yasha",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/S7_Skin_Tag.png/revision/latest?cbu003d20210522142207",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/S7_Skin_Tag.png",
                 "script": "94"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero313-portrait.png/revision/latest?cbu003d20220525164959",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero313-portrait.png",
                 "name": "Snake Eye Commander",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
                 "script": "95"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest?cbu003d20220525165005",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png",
                 "name": "Decapitator",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cbu003d20210414064230",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png",
                 "script": "96"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png/revision/latest?cbu003d20220525165001",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png",
                 "name": "Javelin Champion",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20210414064523",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png",
                 "script": "97"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero318-portrait.png/revision/latest?cbu003d20220525165006",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero318-portrait.png",
                 "name": "Blood Spear",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
                 "script": "98"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest?cbu003d20220525165004",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png",
                 "name": "Twilight Dragon",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
                 "script": "99"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest?cbu003d20220802032157",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png",
                 "name": "Doom Incarnate",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/ABYSS_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20220217000011",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/ABYSS_Skin_Tag.png",
                 "script": "100"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest?cbu003d20230316133752",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png",
                 "name": "Violet Spear",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
                 "script": "101"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero000-portrait.png",
+                "name": "Infernal Wyrmlord",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/ALLSTAR_Skin_Tag.png",
+                "script": "165"
             }
         ],
         "name": "Moskov"
