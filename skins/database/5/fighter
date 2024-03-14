@@ -218,73 +218,73 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cbu003d20220525164846",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png",
                 "name": "Kung Fu Boy",
                 "script": "1"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest?cbu003d20220525164855",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png",
                 "name": "Go Ballistic",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
                 "script": "2"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest?cbu003d20220719071254",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png",
                 "name": "Hip-hop Boy",
-                "tag": "up",
                 "script": "3"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest?cbu003d20220525164853",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png",
                 "name": "Furious Tiger",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20210414064523 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png",
                 "script": "4"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest?cbu003d20220525164852",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png",
                 "name": "King of Muay Thai",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cbu003d20210414064230 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png",
                 "script": "5"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png/revision/latest?cbu003d20220525164851",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero263-portrait.png",
                 "name": "Dragon Boy",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
                 "script": "6"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png/revision/latest?cbu003d20220525164854",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero266-portrait.png",
                 "name": "Iori Yagami",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cbu003d20220203122802 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png",
                 "script": "7"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest?cbu003d20220525164856",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png",
                 "name": "Thunder Fist",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Dawning_Stars_Skin_Tag.png/revision/latest/thumbnail-down/width/69/height/20?cbu003d20230319055038 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Dawning_Stars_Skin_Tag.png ",
                 "script": "8"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cbu003d20220525164857",
-                "name": "S.T.U.N",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20220216235941 ",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png",
+                "name": "S.T.U.N. Chou",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png",
                 "script": "9"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cbu003d20220915121509",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png",
                 "name": "Dragon Shiryu",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/thumbnail-down/width/62/height/20?cbu003d20220915140211 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png",
                 "script": "10"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cbu003d20220915121517",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png",
                 "name": "Libra Shiryu",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png/revision/latest/thumbnail-down/width/62/height/20?cbu003d20220915140211 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Saint_Seiya_Skin_Tag.png",
                 "script": "11"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png/revision/latest?cbu003d20230805043953",
-                "name": "Echo",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero102612-portrait.png",
+                "name": "ECHO",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Champion_Skin_Tag.png",
                 "script": "195"
             }
         ],
