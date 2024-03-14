@@ -426,51 +426,51 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png/revision/latest?cbu003d20220525165556",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero631-portrait.png",
                 "name": "Abyssal Witch",
                 "script": "31"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest?cbu003d20220525165606",
-                "name": "Double Identify",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603",
-                "script": "32"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest?cbu003d20220525165604",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png",
                 "name": "Virus",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
                 "script": "33"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest?cbu003d20220525165607",
-                "name": "Thunder Flash",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
-                "script": "34"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cbu003d20230514163409",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png",
                 "name": "Gemini - Shadow",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cbu003d20211211020801",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Zodiac_Skin_Tag.png",
                 "script": "35"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest?cbu003d20220525165609",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png",
+                "name": "Double Identity",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
+                "script": "32"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png",
+                "name": "Thunder Flash",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
+                "script": "34"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png",
+                "name": "Gothic Curse",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png",
+                "script": "38"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png",
                 "name": "S.T.U.N Selena",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20220216235941",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png",
                 "script": "36"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest?cbu003d20220525165610",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png",
                 "name": "Lady Vengeance",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/ABYSS_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20220217000011",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/ABYSS_Skin_Tag.png",
                 "script": "37"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest?cbu003d20220525165608",
-                "name": "Gothic Curse",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cbu003d20210414064230",
-                "script": "38"
             }
         ],
         "name": "Selena"
