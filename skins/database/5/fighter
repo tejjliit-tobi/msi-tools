@@ -810,56 +810,62 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png/revision/latest?cbu003d20220525165850",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero801-portrait.png",
                 "name": "Ms.Violet",
                 "script": "19"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest?cbu003d20220525165909",
-                "name": "Lotus",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603",
-                "script": "20"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png/revision/latest?cbu003d20220525165920",
-                "name": "Sakura Wishes",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20210414064523",
-                "script": "21"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest?cbu003d20220525165913",
-                "name": "Amethyst Dance",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20210414064523",
-                "script": "22"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest?cbu003d20220525165906",
-                "name": "Athena Asamiya",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cbu003d20220203122802",
-                "script": "23"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero806-portrait.png/revision/latest?cbu003d20220525165916",
-                "name": "Lady Crane",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
-                "script": "24"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest?cbu003d20220525165903",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png",
                 "name": "Fleur de Bleau",
                 "script": "25"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest?cbu003d20220525165923",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png",
+                "name": "Athena Asamiya",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png",
+                "script": "23"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png",
+                "name": "Lotus",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
+                "script": "20"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png",
+                "name": "Amethyst Dance",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png",
+                "script": "22"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero806-portrait.png",
+                "name": "Lady Crane",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
+                "script": "24"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png",
+                "name": "Sakura Wishes",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png",
+                "script": "21"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png",
                 "name": "Summer Breeze",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20210728125205",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png",
                 "script": "26"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest?cbu003d20220525165927",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png",
                 "name": "Psion of Tomorrow",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cbu003d20210414064339",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png",
                 "script": "27"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero108010-portrait.png",
+                "name": "Elegant Butterfly",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png",
+                "script": "211"
             }
         ],
         "name": "Guinevere"
