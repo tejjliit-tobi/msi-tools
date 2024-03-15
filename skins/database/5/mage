@@ -69,43 +69,44 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cbu003d20220525165020",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png",
                 "name": "Starsoul Magician",
                 "script": "68"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero332-portrait.png/revision/latest?cbu003d20220525165023",
-                "name": "Exorcist",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero332-portrait.png",
+                "name": "Exorcist Cyclops",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/The_Exorcists_Skin_Tag.png",
                 "script": "69"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero333-portrait.png/revision/latest?cbu003d20220525165024",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero333-portrait.png",
                 "name": "Super Adventurer",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cbu003d20210414064230",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png",
                 "script": "70"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero334-portrait.png/revision/latest?cbu003d20220525165025",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero334-portrait.png",
                 "name": "S.A.B.E.R. Enforcer",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
                 "script": "71"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest?cbu003d20220525165031",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png",
                 "name": "Master Yoda",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cbu003d20211212004634",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png",
                 "script": "72"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest?cbu003d20220525165032",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png",
                 "name": "Straw Doll",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png/revision/latest/thumbnail-down/width/49/height/20?cbu003d20221111140633",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png",
                 "script": "73"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cbu003d20230317102253",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png",
                 "name": "Yokai Warlock",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20220216235857",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png",
                 "script": "74"
             }
         ],
@@ -185,6 +186,7 @@
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest?cbu003d20220915121143",
                 "name": "Exorcist Kagura",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/The_Exorcists_Skin_Tag.png",
                 "script": "99"
             },
             {
