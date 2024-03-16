@@ -186,50 +186,50 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Death_Chanter.jpg/revision/latest/scale-to-width-down/250?cbu003d20211010080851",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Death_Chanter.jpg",
                 "name": "Death Chanter",
                 "script": "10"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Doomsday_Terminator.jpg/revision/latest/scale-to-width-down/250?cbu003d20211010080956",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Doomsday_Terminator.jpg",
                 "name": "Doomsday Terminator",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cbu003d20210414064230",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png",
                 "script": "11"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Biosoldier.jpg/revision/latest/scale-to-width-down/250?cbu003d20211010081014",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Biosoldier.jpg",
                 "name": "Biosoldier",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
                 "script": "12"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Lightborn_-_Overrider.jpg/revision/latest/scale-to-width-down/250?cbu003d20211010081049",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Lightborn_-_Overrider.jpg",
                 "name": "Lightborn - Overrider",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/thumbnail-down/width/44/height/20?cbu003d20211211021856",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png",
                 "script": "13"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Agent_Z.jpg/revision/latest/scale-to-width-down/250?cbu003d20211215200932",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Agent_Z.jpg",
                 "name": "Agent Z",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20220216235857",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png",
                 "script": "14"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Starfall_Knight.jpg/revision/latest/scale-to-width-down/250?cbu003d20211010081115",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Starfall_Knight.jpg",
                 "name": "Starfall Knight",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cbu003d20210414064339",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png",
                 "script": "15"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Megatron.jpg/revision/latest/scale-to-width-down/250?cbu003d20220203090128",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Megatron.jpg",
                 "name": "Megatron",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/thumbnail-down/width/41/height/20?cbu003d20220217000003",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png",
                 "script": "16"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hellbringer.jpg/revision/latest/scale-to-width-down/250?cbu003d20220127113133",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hellbringer.jpg",
                 "name": "Hellbringer",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20210414064523",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png",
                 "script": "17"
             }
         ],
