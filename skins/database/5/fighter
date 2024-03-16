@@ -919,11 +919,13 @@
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png",
                 "name": "Tesla Maniac",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
                 "script": "214"
             },           
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png",
                 "name": "Bumblebee",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png",
                 "script": "213"
             }
         ],
