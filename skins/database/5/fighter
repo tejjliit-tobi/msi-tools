@@ -910,7 +910,23 @@
         "name": "Terizla"
     },
     {
-        "data": [],
+        "data": [
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero831-portrait.png",
+                "name": "Firaga Armor",
+                "script": "212"
+            },           
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png",
+                "name": "Tesla Maniac",
+                "script": "214"
+            },           
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png",
+                "name": "Bumblebee",
+                "script": "213"
+            }
+        ],
         "name": "X.Borg"
     },
     {
