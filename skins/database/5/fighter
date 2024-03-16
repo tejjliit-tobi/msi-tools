@@ -604,49 +604,49 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png/revision/latest?cbu003d20220525165611",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero641-portrait.png",
                 "name": "Contractor",
                 "script": "12"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest?cbu003d20220525165619",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png",
                 "name": "Red Mantle",
                 "script": "777"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png/revision/latest?cbu003d20220525165621",
-                "name": "The Insentient",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603 ",
-                "script": "13"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest?cbu003d20220525165622",
-                "name": "King of Supremacy",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/M1_Skin_Tag.png/revision/latest/scale-to-width-down/75?cbu003d20220203123912 ",
-                "script": "14"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero646-portrait.png/revision/latest?cbu003d20220525165623",
-                "name": "Blazing Force",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20220714101551 ",
-                "script": "15"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero643-portrait.png/revision/latest?cbu003d20220525165620",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero643-portrait.png",
                 "name": "Death",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cbu003d20210414064230 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png",
                 "script": "16"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest?cbu003d20220525165624",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero644-portrait.png",
+                "name": "The Insentient",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
+                "script": "13"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png",
+                "name": "King of Supremacy",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/M1_Skin_Tag.png",
+                "script": "14"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero646-portrait.png",
+                "name": "Blazing Force",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Blazing_Bounties_Skin_Tag.png",
+                "script": "15"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png",
                 "name": "Realm Watcher",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20220216235857 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png",
                 "script": "17"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest?cbu003d20220525165625",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png",
                 "name": "Starscream",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/thumbnail-down/width/41/height/20?cbu003d20220217000003",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png",
                 "script": "18"
             },
             {
