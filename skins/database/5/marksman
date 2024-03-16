@@ -725,56 +725,56 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png/revision/latest?cbu003d20220525165125",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero391-portrait.png",
                 "name": "Dire Wolf Hunter",
                 "script": "109"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png/revision/latest?cbu003d20220525165131",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero392-portrait.png",
                 "name": "Dark Gent",
                 "script": "110"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero394-portrait.png/revision/latest?cbu003d20220525165133",
-                "name": "Anubis",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603",
-                "script": "111"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png/revision/latest?cbu003d20220920092342",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero393-portrait.png",
                 "name": "Dr. Beast",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
                 "script": "112"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero396-portrait.png/revision/latest?cbu003d20220525165135",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero394-portrait.png",
+                "name": "Anubis",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
+                "script": "111"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png",
+                "name": "Phantom Pirate",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
+                "script": "117"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero396-portrait.png",
                 "name": "Cyborg Werewolf",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
                 "script": "113"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero397-portrait.png/revision/latest?cbu003d20220525165136",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero397-portrait.png",
                 "name": "Phantom Ranger",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/M3_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20211201154155",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/M3_Skin_Tag.png",
                 "script": "114"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png/revision/latest?cbu003d20220525165137",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero398-portrait.png",
                 "name": "Fiend Haunter",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20211201153613",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png",
                 "script": "115"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png/revision/latest?cbu003d20220525165139",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero399-portrait.png",
                 "name": "Grimlock",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/thumbnail-down/width/41/height/20?cbu003d20220217000003",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png",
                 "script": "116"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero395-portrait.png/revision/latest?cbu003d20230317100649",
-                "name": "Phantom Pirate",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
-                "script": "117"
             }
         ],
         "name": "Roger"
