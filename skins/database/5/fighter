@@ -1033,25 +1033,25 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest?cbu003d20220525170233",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png",
                 "name": "Black Dragon",
                 "script": "118"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest?cbu003d20220525170237",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png",
                 "name": "Emerald Dragon",
                 "script": "119"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest?cbu003d20220525170238",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png",
                 "name": "Biohazard",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png",
                 "script": "120"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest?cbu003d20220525170239",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png",
                 "name": "Blood Serpent",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20220216235857 ",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png",
                 "script": "121"
             },
             {
@@ -1061,14 +1061,14 @@
                 "script": "122"
             },
             {
-                "image": "https://github.com/lanz132/NEWIMG/raw/main/yuzhong1.jpg",
-                "name": "Dragon of Shade",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero957-portrait.png",
+                "name": "Dragon's Shade",
                 "script": "197"
             },
             {
-                "image": "https://github.com/lanz132/NEWIMG/raw/main/yuzhong2.jpg",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png",
                 "name": "Cosmic Dragon",
-                "tag": "",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/PRIME_Skin_Tag.png",
                 "script": "198"
             }
         ],
