@@ -59,38 +59,38 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero321-portrait.png/revision/latest?cbu003d20220525165007",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero321-portrait.png",
                 "name": "Mustang",
                 "script": "10"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero324-portrait.png/revision/latest?cbu003d20220525165016",
-                "name": "Jeepney Racer",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cbu003d20210414064230",
-                "script": "11"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero326-portrait.png/revision/latest?cbu003d20220525165018",
-                "name": "Death Ride",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20210414064523",
-                "script": "12"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero323-portrait.png/revision/latest?cbu003d20220525165012",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero323-portrait.png",
                 "name": "S.A.B.E.R. Automata",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
                 "script": "13"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero325-portrait.png/revision/latest?cbu003d20220525165016",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero324-portrait.png",
+                "name": "Jeepney Racer",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png",
+                "script": "11"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero325-portrait.png",
                 "name": "Wreck King",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png",
                 "script": "14"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero327-portrait.png/revision/latest?cbu003d20220525165018",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero326-portrait.png",
+                "name": "Death Ride",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png",
+                "script": "12"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero327-portrait.png",
                 "name": "Optimus Prime",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png/revision/latest/thumbnail-down/width/41/height/20?cbu003d20220217000003",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Transformers_Skin_Tag.png",
                 "script": "15"
             }
         ],
