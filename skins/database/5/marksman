@@ -186,12 +186,12 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Death_Chanter.jpg",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero791-portrait.png",
                 "name": "Death Chanter",
-                "script": "10"
+                "script": "10" 
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Doomsday_Terminator.jpg",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero793-portrait.png",
                 "name": "Doomsday Terminator",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png",
                 "script": "11"
