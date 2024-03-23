@@ -35,6 +35,58 @@
     {
         "data": [
             {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero051-portrait.png/revision/latest?cbu003d20220525164353",
+                "name": "Sweet Leonin",
+                "script": "166"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest?cbu003d20220525164406",
+                "name": "Slumber Party",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/thumbnail-down/width/50/height/20?cbu003d20210414064230",
+                "script": "167"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero057-portrait.png/revision/latest?cbu003d20220525164409",
+                "name": "Sundress",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20210728125205",
+                "script": "168"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero055-portrait.png/revision/latest?cbu003d20220525164407",
+                "name": "Wind Fairy",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/MPL_Skin_Tag.png/revision/latest/thumbnail-down/width/42/height/20?cbu003d20210826073827",
+                "script": "169"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero056-portrait.png/revision/latest?cbu003d20220525164408",
+                "name": "Mecha Baby",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest?cbu003d20220216162258",
+                "script": "170"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero058-portrait.png/revision/latest?cbu003d20220525164410",
+                "name": "Aqua Pura",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cbu003d20220216235857",
+                "script": "171"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero059-portrait.png/revision/latest?cbu003d20220628175952",
+                "name": "Cyclone Clash",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/thumbnail-down/width/47/height/20?cbu003d20230214083603",
+                "script": "172"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero100510-portrait.png",
+                "name": "Mistbenders Nana",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Mistbenders_Skin_Tag.png",
+                "script": "173"
+            }
+        ],
+        "name": "Nana"
+    },
+    {
+        "data": [
+            {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero231-portrait.png/revision/latest?cbu003d20220525164812",
                 "name": "Professor of the Mystics",
                 "script": "113"
