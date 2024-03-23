@@ -730,27 +730,27 @@
     {
         "data": [
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Little_Witch.jpg",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero861-portrait.png",
                 "name": "Little Wizard",
                 "script": "58"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Star_Student.jpg",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero863-portrait.png",
                 "name": "Star Student",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png",
                 "script": "59"
             },
             {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Haunted_Doll.jpg",
-                "name": "Haunted Doll",
-                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png",
-                "script": "60"
-            },
-            {
-                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Future_Star.jpg",
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero864-portrait.png",
                 "name": "Future Star",
                 "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Special_Skin_Tag.png",
                 "script": "61"
+            },
+            {
+                "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png",
+                "name": "Haunted Doll",
+                "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Halloween_Skin_Tag.png",
+                "script": "60"
             },
             {
                 "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero866-portrait.png",
